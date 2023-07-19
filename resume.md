@@ -4,7 +4,7 @@
 <hr width=300>
 
 ## <p style="text-align: center; font-size: 10px"> (+20) 0122 052 2714 | Alexandria, Egypt
-## <p style="text-align: center; font-size: 8px"> yousef.gomaa.ibrahim@gmail.com | yousef.gomaa@ejust.edu.eg | https://linkedin.com/37743-yibg | https://github.com/37743 </p>
+## <p style="text-align: center; font-size: 8px"> yousef.gomaa.ibrahim@gmail.com | yousef.gomaa@ejust.edu.eg | https://linkedin.com/in/37743-yibg | https://github.com/37743 </p>
 
 ---
 <img src="DSC_4600.PNG" alt="Yousef Gomaa" width="150" style="float: right"/>
